@@ -1,0 +1,19 @@
+name: selftest-push
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify GITHUB_TOKEN can push a branch
+        run: |
+          git config user.name "aiprice-data bot"
+          git config user.email "bot@aiprice.io"
+          git push origin HEAD:refs/heads/selftest-push --force
+          echo "PUSH_OK"
