@@ -1,0 +1,39 @@
+name: daily price snapshot
+
+on:
+  schedule:
+    # 每天 UTC 04:20 = 北京时间 12:20，取当日固定快照
+    - cron: "20 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build daily snapshot
+        run: python3 scripts/snapshot.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "aiprice-data bot"
+          git config user.email "bot@aiprice.io"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no change, skip commit"
+            exit 0
+          fi
+          git commit -m "data: $(date -u -d '+8 hour' +%Y-%m-%d) snapshot"
+          git push
