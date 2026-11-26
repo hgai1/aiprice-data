@@ -1,0 +1,66 @@
+date,snapshot_id,name,slug,platform,type,offers_total,in_stock,stock_rate,lowest,cheap5_high,spread
+2026-11-26,20261126050743-d77107a1bedf,Grok 普号 / 体验号,grok-account,Grok,成品账号,82,32,0.3902,0.01,0.02,2.0
+2026-11-26,20261126050743-d77107a1bedf,Outlook / Hotmail 邮箱,outlook-account,邮箱,邮箱/账号,313,182,0.5815,0.01,0.02,2.0
+2026-11-26,20261126050743-d77107a1bedf,iCloud 邮箱,icloud-email,邮箱,邮箱/账号,118,67,0.5678,0.01,0.02,2.0
+2026-11-26,20261126050743-d77107a1bedf,Muse AI 账号,muse-ai-account,其他,工具账号,702,533,0.7593,0.01,0.02,2.0
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT 普号,chatgpt-free-account,ChatGPT,成品账号,651,484,0.7435,0.02,0.02,1.0
+2026-11-26,20261126050743-d77107a1bedf,其他邮箱,email-account,邮箱,邮箱/账号,96,66,0.6875,0.02,0.25,12.5
+2026-11-26,20261126050743-d77107a1bedf,通用接码,phone-verification,接码,接码/验证,127,108,0.8504,0.05,0.06,1.2
+2026-11-26,20261126050743-d77107a1bedf,Google / Gemini 接码,google-phone-verification,接码,接码/验证,172,130,0.7558,0.26,0.3,1.15
+2026-11-26,20261126050743-d77107a1bedf,Gmail / Google 邮箱,gmail-account,邮箱,邮箱/账号,679,194,0.2857,0.31,0.45,1.45
+2026-11-26,20261126050743-d77107a1bedf,Cursor 账号,cursor-account,其他,工具账号,76,57,0.75,0.35,0.56,1.6
+2026-11-26,20261126050743-d77107a1bedf,教育邮箱,education-email,邮箱,邮箱/账号,12,10,0.8333,0.38,39.06,102.79
+2026-11-26,20261126050743-d77107a1bedf,OpenAI / ChatGPT 接码,openai-phone-verification,接码,接码/验证,779,652,0.837,0.45,0.57,1.27
+2026-11-26,20261126050743-d77107a1bedf,社媒账号,social-media-account,其他,工具账号,36,17,0.4722,0.51,9.05,17.75
+2026-11-26,20261126050743-d77107a1bedf,PayPal 接码,paypal-phone-verification,接码,接码/验证,13,8,0.6154,0.52,3.09,5.94
+2026-11-26,20261126050743-d77107a1bedf,Kiro 普号 / Free,kiro-account,其他,工具账号,15,11,0.7333,0.78,1.54,1.97
+2026-11-26,20261126050743-d77107a1bedf,Codex / ChatGPT 周边与自助服务,chatgpt-codex-service,ChatGPT,辅助服务,93,65,0.6989,0.82,0.9,1.1
+2026-11-26,20261126050743-d77107a1bedf,虚拟卡,virtual-card,其他,虚拟卡,60,50,0.8333,0.87,1.55,1.78
+2026-11-26,20261126050743-d77107a1bedf,Claude / Anthropic 接码,claude-phone-verification,接码,接码/验证,127,111,0.874,1.03,1.84,1.79
+2026-11-26,20261126050743-d77107a1bedf,Cursor 接码,cursor-phone-verification,接码,接码/验证,33,30,0.9091,1.03,1.85,1.8
+2026-11-26,20261126050743-d77107a1bedf,Meta / Muse 接码,muse-phone-verification,接码,接码/验证,63,59,0.9365,1.03,1.34,1.3
+2026-11-26,20261126050743-d77107a1bedf,Instagram / Threads 接码,instagram-phone-verification,接码,接码/验证,32,31,0.9688,1.03,1.85,1.8
+2026-11-26,20261126050743-d77107a1bedf,X / 推特账号,x-twitter-account,其他,工具账号,22,15,0.6818,1.03,1.29,1.25
+2026-11-26,20261126050743-d77107a1bedf,多邻国 Super 会员,duolingo-super,其他,订阅/会员,7,2,0.2857,1.1,8.22,7.47
+2026-11-26,20261126050743-d77107a1bedf,Claude 普号 / 兑换号,claude-account,Claude,成品账号,318,185,0.5818,1.85,2.06,1.11
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Team / Business,chatgpt-team-business,ChatGPT,订阅/会员,1286,487,0.3787,3.09,8.22,2.66
+2026-11-26,20261126050743-d77107a1bedf,Telegram 账号,telegram-account,其他,工具账号,33,20,0.6061,3.5,5,1.43
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Plus 试用订阅,chatgpt-plus,ChatGPT,订阅/会员,2427,1549,0.6382,3.75,12.34,3.29
+2026-11-26,20261126050743-d77107a1bedf,Apple ID / 苹果账号,apple-id-account,其他,工具账号,92,37,0.4022,4.11,5.65,1.37
+2026-11-26,20261126050743-d77107a1bedf,Gemini Pro 充值/开通,gemini-pro-recharge,Gemini,订阅/会员,281,145,0.516,4.64,5.77,1.24
+2026-11-26,20261126050743-d77107a1bedf,Gemini Plus,gemini-plus,Gemini,订阅/会员,77,5,0.0649,5.14,19.36,3.77
+2026-11-26,20261126050743-d77107a1bedf,Notion 商业版,notion-business,其他,订阅/会员,73,66,0.9041,6.27,6.6,1.05
+2026-11-26,20261126050743-d77107a1bedf,Telegram Premium / Pro 会员,telegram-premium,其他,订阅/会员,16,6,0.375,8,133,16.62
+2026-11-26,20261126050743-d77107a1bedf,真人 / KYC 验证,identity-verification,接码,接码/验证,10,7,0.7,10.28,308,29.96
+2026-11-26,20261126050743-d77107a1bedf,Gemini Pro 成品号,gemini-pro-year,Gemini,成品账号,327,97,0.2966,24.72,26.06,1.05
+2026-11-26,20261126050743-d77107a1bedf,Grok Premium,super-grok,Grok,订阅/会员,254,144,0.5669,26.73,45.21,1.69
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Go,chatgpt-go,ChatGPT,订阅/会员,258,241,0.9341,28,28.66,1.02
+2026-11-26,20261126050743-d77107a1bedf,Grok Plus,super-grok-lite,Grok,订阅/会员,162,139,0.858,35.93,52,1.45
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Pro 100刀档 成品号,chatgpt-pro-5x-account,ChatGPT,成品账号,62,31,0.5,60,287.84,4.8
+2026-11-26,20261126050743-d77107a1bedf,Kiro Pro / 额度号,kiro-pro-account,其他,工具账号,44,23,0.5227,61.8,149.06,2.41
+2026-11-26,20261126050743-d77107a1bedf,Dreamina / 即梦,dreamina-account,其他,工具账号,139,123,0.8849,61.8,71.34,1.15
+2026-11-26,20261126050743-d77107a1bedf,X Premium / 推特会员,x-twitter-premium,其他,订阅/会员,5,5,1.0,70,1026.97,14.67
+2026-11-26,20261126050743-d77107a1bedf,Codex 额度充值,chatgpt-codex-credits,ChatGPT,订阅/会员,425,396,0.9318,71.96,72.97,1.01
+2026-11-26,20261126050743-d77107a1bedf,Claude KYC 认证,claude-kyc-verification,Claude,接码/验证,185,172,0.9297,71.96,80,1.11
+2026-11-26,20261126050743-d77107a1bedf,Suno 账号,suno-account,其他,工具账号,6,3,0.5,77.1,240,3.11
+2026-11-26,20261126050743-d77107a1bedf,Claude Pro 代充,claude-pro-month,Claude,订阅/会员,122,31,0.2541,102.8,154.19,1.5
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Plus 正价代充,chatgpt-plus-recharge,ChatGPT,订阅/会员,1027,862,0.8393,108,108.97,1.01
+2026-11-26,20261126050743-d77107a1bedf,Claude Pro 成品号,claude-pro-month-account,Claude,成品账号,181,160,0.884,143.92,210,1.46
+2026-11-26,20261126050743-d77107a1bedf,Google AI Ultra 5x,gemini-ultra-5x,Gemini,订阅/会员,140,118,0.8429,150.09,169.6,1.13
+2026-11-26,20261126050743-d77107a1bedf,礼品卡,gift-card,其他,礼品卡,5,1,0.2,156,185,1.19
+2026-11-26,20261126050743-d77107a1bedf,Google AI Ultra 20x,gemini-ultra,Gemini,订阅/会员,255,203,0.7961,163.45,179.8,1.1
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Pro 500刀档 成品号,chatgpt-pro-500-account,ChatGPT,成品账号,37,34,0.9189,185.04,1130.8,6.11
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Pro 200刀档 成品号,chatgpt-pro-20x-account,ChatGPT,成品账号,75,53,0.7067,205.6,388.58,1.89
+2026-11-26,20261126050743-d77107a1bedf,Claude Team Standard,claude-team-standard,Claude,订阅/会员,5,2,0.4,288.4,1634.52,5.67
+2026-11-26,20261126050743-d77107a1bedf,Perplexity 账号,perplexity-account,其他,工具账号,7,3,0.4286,300,500,1.67
+2026-11-26,20261126050743-d77107a1bedf,Claude Max 20x 成品号,claude-max-20x-account,Claude,成品账号,58,43,0.7414,328.96,1950,5.93
+2026-11-26,20261126050743-d77107a1bedf,Grok Super,grok-super,Grok,订阅/会员,119,72,0.605,419,678.48,1.62
+2026-11-26,20261126050743-d77107a1bedf,Grok Ultra,super-grok-heavy,Grok,订阅/会员,117,54,0.4615,520,1079.4,2.08
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Pro 100刀档 代充,chatgpt-pro-5x,ChatGPT,订阅/会员,850,691,0.8129,600,609.09,1.02
+2026-11-26,20261126050743-d77107a1bedf,Claude Max 5x 代充,claude-max-5x,Claude,订阅/会员,114,96,0.8421,789.5,820.86,1.04
+2026-11-26,20261126050743-d77107a1bedf,Claude Team Premium,claude-team-premium,Claude,订阅/会员,24,20,0.8333,978.5,1179,1.2
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Pro 200刀档 代充,chatgpt-pro-20x,ChatGPT,订阅/会员,814,732,0.8993,985,990,1.01
+2026-11-26,20261126050743-d77107a1bedf,Claude Max 5x 成品号,claude-max-5x-account,Claude,成品账号,37,32,0.8649,1050,1182.2,1.13
+2026-11-26,20261126050743-d77107a1bedf,Claude Max 20x 代充,claude-max-20x,Claude,订阅/会员,82,70,0.8537,1540.97,1564.5,1.02
+2026-11-26,20261126050743-d77107a1bedf,ChatGPT Pro 500刀档 代充,chatgpt-pro-500,ChatGPT,订阅/会员,351,330,0.9402,2950,3020,1.02
+2026-11-26,20261126050743-d77107a1bedf,Windsurf 账号,windsurf-account,其他,工具账号,0,0,0,,,
