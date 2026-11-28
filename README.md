@@ -2,73 +2,73 @@
 
 [aiprice.io](https://aiprice.io/?ch=gh-data) 每小时采集一次 AI 相关虚拟商品的在售价格：ChatGPT、Claude、Gemini、Grok 的成品号、代充、会员车位，以及接码、邮箱、虚拟卡等配套商品。本仓库每天把当日快照固化一份 CSV，所以同一口径的历史价格可以直接下载对比。
 
-**数据时间：2026-11-27 13:05（北京时间）** · 快照 `20261127050547-9109ff99425b` · 65 个商品 / 15,411 条报价 / 10,906 条有货
+**数据时间：2026-11-28 13:10（北京时间）** · 快照 `20261128051019-4d10d2a48d8d` · 65 个商品 / 15,747 条报价 / 11,335 条有货
 
 ## 当日概览
 
 | 指标 | 数值 |
 | --- | --- |
 | 在比价商品 | 65 |
-| 报价条数 | 15,411 |
-| 有货报价 | 10,906 |
-| 整体有货率 | 70.8% |
+| 报价条数 | 15,747 |
+| 有货报价 | 11,335 |
+| 整体有货率 | 72.0% |
 | 0 元商品 | 1 |
-| 最低价中位数（不含 0 元） | ¥12.67 |
+| 最低价中位数（不含 0 元） | ¥16.45 |
 
 ## 各平台最低价（当日）
 
 | 平台 | 商品数 | 报价 | 有货 | 有货率 | 当日最低价 |
 | --- | --- | --- | --- | --- | --- |
-| ChatGPT | 13 | 8,457 | 6,237 | 73.8% | 免费（ChatGPT 普号） |
-| 其他 | 18 | 1,380 | 1,085 | 78.6% | ¥0.01（Muse AI 账号） |
-| 邮箱 | 5 | 1,287 | 631 | 49.0% | ¥0.01（Outlook / Hotmail 邮箱） |
-| 接码 | 9 | 1,261 | 1,026 | 81.4% | ¥0.05（通用接码） |
-| Gemini | 5 | 1,147 | 606 | 52.8% | ¥5（Gemini Pro 充值/开通） |
-| Claude | 10 | 1,128 | 832 | 73.8% | ¥1.84（Claude 普号 / 兑换号） |
-| Grok | 5 | 751 | 489 | 65.1% | ¥0.01（Grok 普号 / 体验号） |
+| ChatGPT | 13 | 8,523 | 6,316 | 74.1% | 免费（ChatGPT 普号） |
+| 其他 | 18 | 1,454 | 1,137 | 78.2% | ¥0.01（Muse AI 账号） |
+| 接码 | 9 | 1,305 | 1,091 | 83.6% | ¥0.05（通用接码） |
+| 邮箱 | 5 | 1,266 | 719 | 56.8% | ¥0.01（Outlook / Hotmail 邮箱） |
+| Gemini | 5 | 1,222 | 675 | 55.2% | ¥5.9（Gemini Plus） |
+| Claude | 10 | 1,215 | 898 | 73.9% | ¥1.85（Claude 普号 / 兑换号） |
+| Grok | 5 | 762 | 499 | 65.5% | ¥0.01（Grok 普号 / 体验号） |
 
 ## 商品类型分布
 
 | 类型 | 商品数 | 报价 | 有货 | 有货率 |
 | --- | --- | --- | --- | --- |
-| 订阅/会员 | 25 | 9,489 | 6,866 | 72.4% |
-| 成品账号 | 10 | 1,819 | 1,139 | 62.6% |
-| 接码/验证 | 10 | 1,441 | 1,194 | 82.9% |
-| 邮箱/账号 | 5 | 1,287 | 631 | 49.0% |
-| 工具账号 | 12 | 1,196 | 936 | 78.3% |
-| 辅助服务 | 1 | 96 | 70 | 72.9% |
-| 虚拟卡 | 1 | 78 | 69 | 88.5% |
+| 订阅/会员 | 25 | 9,566 | 6,924 | 72.4% |
+| 成品账号 | 10 | 1,949 | 1,282 | 65.8% |
+| 接码/验证 | 10 | 1,512 | 1,282 | 84.8% |
+| 邮箱/账号 | 5 | 1,266 | 719 | 56.8% |
+| 工具账号 | 12 | 1,257 | 989 | 78.7% |
+| 辅助服务 | 1 | 101 | 71 | 70.3% |
+| 虚拟卡 | 1 | 91 | 67 | 73.6% |
 | 礼品卡 | 1 | 5 | 1 | 20.0% |
 
 ## 当日最低价榜（前 15）
 
 | 商品 | 平台 | 类型 | 最低价 | 有货率 | 低价带（前 5 条上下限） |
 | --- | --- | --- | --- | --- | --- |
-| [ChatGPT 普号](https://aiprice.io/stock/chatgpt-free-account/?ch=gh-data) | ChatGPT | 成品账号 | 免费 | 75% | 免费 – ¥0.02 |
-| [Grok 普号 / 体验号](https://aiprice.io/stock/grok-account/?ch=gh-data) | Grok | 成品账号 | ¥0.01 | 65% | ¥0.01 – ¥0.02 |
-| [Outlook / Hotmail 邮箱](https://aiprice.io/stock/outlook-account/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.01 | 60% | ¥0.01 – ¥0.02 |
-| [iCloud 邮箱](https://aiprice.io/stock/icloud-email/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.01 | 60% | ¥0.01 – ¥0.02 |
+| [ChatGPT 普号](https://aiprice.io/stock/chatgpt-free-account/?ch=gh-data) | ChatGPT | 成品账号 | 免费 | 79% | 免费 – ¥0.02 |
+| [Grok 普号 / 体验号](https://aiprice.io/stock/grok-account/?ch=gh-data) | Grok | 成品账号 | ¥0.01 | 69% | ¥0.01 – ¥0.02 |
+| [Outlook / Hotmail 邮箱](https://aiprice.io/stock/outlook-account/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.01 | 67% | ¥0.01 – ¥0.02 |
+| [iCloud 邮箱](https://aiprice.io/stock/icloud-email/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.01 | 57% | ¥0.01 – ¥0.02 |
 | [Muse AI 账号](https://aiprice.io/stock/muse-ai-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.01 | 82% | ¥0.01 – ¥0.02 |
-| [其他邮箱](https://aiprice.io/stock/email-account/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.02 | 69% | ¥0.02 – ¥0.21 |
-| [虚拟卡](https://aiprice.io/stock/virtual-card/?ch=gh-data) | 其他 | 虚拟卡 | ¥0.02 | 88% | ¥0.02 – ¥0.87 |
+| [虚拟卡](https://aiprice.io/stock/virtual-card/?ch=gh-data) | 其他 | 虚拟卡 | ¥0.02 | 74% | ¥0.02 – ¥0.87 |
+| [其他邮箱](https://aiprice.io/stock/email-account/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.03 | 68% | ¥0.03 – ¥0.66 |
 | [通用接码](https://aiprice.io/stock/phone-verification/?ch=gh-data) | 接码 | 接码/验证 | ¥0.05 | 86% | ¥0.05 – ¥0.06 |
-| [Google / Gemini 接码](https://aiprice.io/stock/google-phone-verification/?ch=gh-data) | 接码 | 接码/验证 | ¥0.26 | 72% | ¥0.26 – ¥0.3 |
-| [Gmail / Google 邮箱](https://aiprice.io/stock/gmail-account/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.31 | 40% | ¥0.31 – ¥0.45 |
-| [Cursor 账号](https://aiprice.io/stock/cursor-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.35 | 77% | ¥0.35 – ¥0.56 |
-| [OpenAI / ChatGPT 接码](https://aiprice.io/stock/openai-phone-verification/?ch=gh-data) | 接码 | 接码/验证 | ¥0.41 | 80% | ¥0.41 – ¥0.6 |
-| [社媒账号](https://aiprice.io/stock/social-media-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.51 | 51% | ¥0.51 – ¥9.05 |
+| [Google / Gemini 接码](https://aiprice.io/stock/google-phone-verification/?ch=gh-data) | 接码 | 接码/验证 | ¥0.26 | 74% | ¥0.26 – ¥0.31 |
+| [Gmail / Google 邮箱](https://aiprice.io/stock/gmail-account/?ch=gh-data) | 邮箱 | 邮箱/账号 | ¥0.31 | 52% | ¥0.31 – ¥0.45 |
+| [OpenAI / ChatGPT 接码](https://aiprice.io/stock/openai-phone-verification/?ch=gh-data) | 接码 | 接码/验证 | ¥0.41 | 83% | ¥0.41 – ¥0.62 |
+| [Cursor 账号](https://aiprice.io/stock/cursor-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.41 | 78% | ¥0.41 – ¥0.67 |
+| [社媒账号](https://aiprice.io/stock/social-media-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.51 | 67% | ¥0.51 – ¥10.18 |
 | [PayPal 接码](https://aiprice.io/stock/paypal-phone-verification/?ch=gh-data) | 接码 | 接码/验证 | ¥0.52 | 67% | ¥0.52 – ¥3.09 |
-| [Kiro 普号 / Free](https://aiprice.io/stock/kiro-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.78 | 73% | ¥0.78 – ¥1.54 |
+| [Kiro 普号 / Free](https://aiprice.io/stock/kiro-account/?ch=gh-data) | 其他 | 工具账号 | ¥0.75 | 75% | ¥0.75 – ¥1.36 |
 
 ## 当天变动
 
-对比 2026-11-26，24 个商品的在售最低价发生变化。完整明细见 [data/changes/2026-11-27.md](data/changes/2026-11-27.md)。
+对比 2026-11-27，19 个商品的在售最低价发生变化。完整明细见 [data/changes/2026-11-28.md](data/changes/2026-11-28.md)。
 
-**降价**：ChatGPT 普号 ¥0.02→免费、虚拟卡 ¥0.87→¥0.02
+**降价**：Claude KYC 认证 ¥46.26→¥16.45、Claude Pro 成品号 ¥143.92→¥60.56
 
-**涨价**：教育邮箱 ¥0.38→¥12.67、Claude Team Standard ¥288.40→¥1,634.52
+**涨价**：教育邮箱 ¥12.67→¥32、Gemini Pro 充值/开通 ¥5→¥10.3
 
-**库存变化**：ChatGPT Plus 试用订阅 +165、Gmail / Google 邮箱 +103、OpenAI / ChatGPT 接码 -96
+**库存变化**：ChatGPT Team / Business +118、Gmail / Google 邮箱 +107、OpenAI / ChatGPT 接码 +68
 
 ## 数据文件
 
